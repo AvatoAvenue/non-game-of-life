@@ -1,0 +1,13 @@
+C:\Users\Lordv\Desktop\lifegame\lifegame\bin\Debug\lifegame.exe
+C:\Users\Lordv\Desktop\lifegame\lifegame\bin\Debug\lifegame.exe.config
+C:\Users\Lordv\Desktop\lifegame\lifegame\obj\Debug\lifegame.csproj.AssemblyReference.cache
+C:\Users\Lordv\Desktop\lifegame\lifegame\obj\Debug\lifegame.Properties.Resources.resources
+C:\Users\Lordv\Desktop\lifegame\lifegame\obj\Debug\lifegame.csproj.GenerateResource.cache
+C:\Users\Lordv\Desktop\lifegame\lifegame\obj\Debug\lifegame.csproj.CoreCompileInputs.cache
+C:\Users\Lordv\Desktop\lifegame\lifegame\obj\Debug\lifegame.exe
+C:\Users\Lordv\Desktop\lifegame\lifegame\obj\Debug\lifegame.pdb
+C:\Users\Lordv\Desktop\lifegame\lifegame\bin\Debug\lifegame.pdb
+C:\Users\Lordv\Desktop\lifegame\lifegame\bin\Debug\lifegame.exe.manifest
+C:\Users\Lordv\Desktop\lifegame\lifegame\bin\Debug\lifegame.application
+C:\Users\Lordv\Desktop\lifegame\lifegame\obj\Debug\lifegame.exe.manifest
+C:\Users\Lordv\Desktop\lifegame\lifegame\obj\Debug\lifegame.application
