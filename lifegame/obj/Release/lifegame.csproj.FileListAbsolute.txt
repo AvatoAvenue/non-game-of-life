@@ -11,3 +11,16 @@ C:\Users\Lordv\Desktop\lifegame\lifegame\obj\Release\lifegame.exe.manifest
 C:\Users\Lordv\Desktop\lifegame\lifegame\obj\Release\lifegame.application
 C:\Users\Lordv\Desktop\lifegame\lifegame\obj\Release\lifegame.exe
 C:\Users\Lordv\Desktop\lifegame\lifegame\obj\Release\lifegame.pdb
+E:\proyectos activos\non-game-of-life\lifegame\bin\Release\no-game-of-life.exe.config
+E:\proyectos activos\non-game-of-life\lifegame\bin\Release\no-game-of-life.exe.manifest
+E:\proyectos activos\non-game-of-life\lifegame\bin\Release\no-game-of-life.application
+E:\proyectos activos\non-game-of-life\lifegame\bin\Release\no-game-of-life.exe
+E:\proyectos activos\non-game-of-life\lifegame\bin\Release\no-game-of-life.pdb
+E:\proyectos activos\non-game-of-life\lifegame\obj\Release\lifegame.csproj.AssemblyReference.cache
+E:\proyectos activos\non-game-of-life\lifegame\obj\Release\lifegame.Properties.Resources.resources
+E:\proyectos activos\non-game-of-life\lifegame\obj\Release\lifegame.csproj.GenerateResource.cache
+E:\proyectos activos\non-game-of-life\lifegame\obj\Release\lifegame.csproj.CoreCompileInputs.cache
+E:\proyectos activos\non-game-of-life\lifegame\obj\Release\no-game-of-life.exe.manifest
+E:\proyectos activos\non-game-of-life\lifegame\obj\Release\no-game-of-life.application
+E:\proyectos activos\non-game-of-life\lifegame\obj\Release\no-game-of-life.exe
+E:\proyectos activos\non-game-of-life\lifegame\obj\Release\no-game-of-life.pdb
